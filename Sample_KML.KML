@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.2.5.2 (Windows)"/>
+	<meta name="created" content="2019-11-14T12:49:26.743000000"/>
+	<meta name="changed" content="2019-11-14T12:51:56.410000000"/>
+	<style type="text/css">
+		@page { size: 8.5in 11in; margin: 0.79in }
+		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
+		pre { background: transparent }
+		pre.western { font-family: "Liberation Mono", monospace; font-size: 10pt }
+		pre.cjk { font-family: "NSimSun", monospace; font-size: 10pt }
+		pre.ctl { font-family: "Liberation Mono", monospace; font-size: 10pt }
+	</style>
+</head>
+<body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><pre class="western">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;kml xmlns=&quot;http://www.opengis.net/kml/2.2&quot;&gt;
+  &lt;Document&gt;
+    &lt;Placemark&gt;
+      &lt;name&gt;CDATA example&lt;/name&gt;
+      &lt;description&gt;
+        &lt;![CDATA[
+          &lt;h1&gt;CDATA Tags are useful!&lt;/h1&gt;
+          &lt;p&gt;&lt;font color=&quot;red&quot;&gt;Text is &lt;i&gt;more readable&lt;/i&gt; and 
+          &lt;b&gt;easier to write&lt;/b&gt; when you can avoid using entity 
+          references.&lt;/font&gt;&lt;/p&gt;
+        ]]&gt;
+      &lt;/description&gt;
+      &lt;Point&gt;
+        &lt;coordinates&gt;102.595626,14.996729&lt;/coordinates&gt;
+      &lt;/Point&gt;
+    &lt;/Placemark&gt;
+  &lt;/Document&gt;
+&lt;/kml&gt;</pre><p style="margin-bottom: 0in; line-height: 100%">
+<br/>
+
+</p>
+</body>
+</html>
